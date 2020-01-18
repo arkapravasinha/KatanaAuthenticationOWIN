@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaAuthenticationOWIN", "KatanaAuthenticationOWIN\KatanaAuthenticationOWIN.csproj", "{47192DD6-ECBB-4FA9-83C7-B55E0FE2475F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{2FC136CF-033E-4308-A985-47711C21E8AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{47192DD6-ECBB-4FA9-83C7-B55E0FE2475F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47192DD6-ECBB-4FA9-83C7-B55E0FE2475F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47192DD6-ECBB-4FA9-83C7-B55E0FE2475F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC136CF-033E-4308-A985-47711C21E8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC136CF-033E-4308-A985-47711C21E8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC136CF-033E-4308-A985-47711C21E8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC136CF-033E-4308-A985-47711C21E8AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
